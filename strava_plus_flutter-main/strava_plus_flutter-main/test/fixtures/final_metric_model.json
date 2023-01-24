@@ -1,0 +1,7 @@
+{
+  "complexActivity": {
+    "activityId": "distance"
+  },
+  "goalComparator": "greater",
+  "value": 10
+}

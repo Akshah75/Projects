@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\.."
+	}
+],
+  "settings": {
+    "editor.fontWeight": "normal",
+    "editor.formatOnSave": true,
+    "java.project.sourcePaths": [""],
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
